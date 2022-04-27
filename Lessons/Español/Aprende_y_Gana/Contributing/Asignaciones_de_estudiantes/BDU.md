@@ -19,6 +19,6 @@ Permite enviar valor y llamar a contratos a través de cadenas y L2 compatibles 
 ![image](https://user-images.githubusercontent.com/103521166/165129006-ba0e7444-5c99-4ca0-a9de-0b8137ec2029.png)
 3. Luego de haber conectado nuestra wallet nos dirigimos a colocar las Chains donde se hara el Bridge respectivo y elegimos el monto a transferir; Al tener todo colocado presionamos **"SWAP"**.
 ![image](https://user-images.githubusercontent.com/103521166/165585007-0b67d43a-a4a9-44f5-b06e-845d19b35644.png)
-4. Seguido de esto Confirmamos la transaccion y se nos abrira metamask para aceptar la transaccion y esperamos algo parecido a la siguiente imagen para Firmar la recepcion (Le damos en **"SIGN TO CLAIM FUNDS"**) de los activos en la chain destino.
+4. Seguido de esto Confirmamos la transaccion y se nos abrira metamask para aceptar la transacción y esperamos algo parecido a la siguiente imagen para Firmar la recepcion (Le damos en **"SIGN TO CLAIM FUNDS"**) de los activos en la chain destino.
 5. ![image](https://user-images.githubusercontent.com/103521166/165585959-6742f1e3-2776-4f14-a367-9074ddc9f377.png)
-## ¡Y LISTO ASI DE FACIL PUEDE SER TRANSFERIR TUS ACTIVOS DE Gnosis Chain A BSC!.
+## ¡Y LISTO ASI DE FÁCIL PUEDE SER TRANSFERIR TUS ACTIVOS DE Gnosis Chain directamente a BSC sin necesidad de hacer Wrapping. 🤑
